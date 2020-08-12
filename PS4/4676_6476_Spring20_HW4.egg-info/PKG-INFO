@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: 4676-6476-Spring20-HW4
+Version: 1.0.0
+Summary: UNKNOWN
+Home-page: https://sites.google.com/view/cs4476-6476-sp2020/home
+Author: Georgia Institute of Technology
+Author-email: svelury@gatech.edu
+License: MIT
+Description: Hough Transform
+Keywords: computer-vision
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: Linux
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >= 3.5
